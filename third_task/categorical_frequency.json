@@ -1,0 +1,294 @@
+[
+    {
+        "category": "Give",
+        "frequency": 1
+    },
+    {
+        "category": "Wankelmut",
+        "frequency": 1
+    },
+    {
+        "category": "feat.",
+        "frequency": 1
+    },
+    {
+        "category": "Cookin",
+        "frequency": 7
+    },
+    {
+        "category": "Cookin",
+        "frequency": 1
+    },
+    {
+        "category": "Dance/Electronic",
+        "frequency": 198
+    },
+    {
+        "category": "Detroit",
+        "frequency": 16
+    },
+    {
+        "category": "Enough",
+        "frequency": 8
+    },
+    {
+        "category": "Folk/Acoustic, rock",
+        "frequency": 9
+    },
+    {
+        "category": "Future",
+        "frequency": 8
+    },
+    {
+        "category": "Give",
+        "frequency": 7
+    },
+    {
+        "category": "Hayley",
+        "frequency": 8
+    },
+    {
+        "category": "Ibiza",
+        "frequency": 8
+    },
+    {
+        "category": "Lil",
+        "frequency": 7
+    },
+    {
+        "category": "Lil",
+        "frequency": 1
+    },
+    {
+        "category": "ORA",
+        "frequency": 7
+    },
+    {
+        "category": "ORA",
+        "frequency": 1
+    },
+    {
+        "category": "Ozuna",
+        "frequency": 8
+    },
+    {
+        "category": "Ponte",
+        "frequency": 8
+    },
+    {
+        "category": "R&B",
+        "frequency": 45
+    },
+    {
+        "category": "Rapper",
+        "frequency": 8
+    },
+    {
+        "category": "Snappin",
+        "frequency": 7
+    },
+    {
+        "category": "Snappin",
+        "frequency": 1
+    },
+    {
+        "category": "Wankelmut",
+        "frequency": 7
+    },
+    {
+        "category": "World/Traditional, hip hop",
+        "frequency": 9
+    },
+    {
+        "category": "World/Traditional, pop",
+        "frequency": 9
+    },
+    {
+        "category": "World/Traditional, pop, Folk/Acoustic",
+        "frequency": 9
+    },
+    {
+        "category": "World/Traditional, rock, pop",
+        "frequency": 9
+    },
+    {
+        "category": "country",
+        "frequency": 36
+    },
+    {
+        "category": "country, latin",
+        "frequency": 9
+    },
+    {
+        "category": "easy listening",
+        "frequency": 9
+    },
+    {
+        "category": "feat",
+        "frequency": 1
+    },
+    {
+        "category": "feat.",
+        "frequency": 6
+    },
+    {
+        "category": "hip hop",
+        "frequency": 540
+    },
+    {
+        "category": "hip hop, Dance/Electronic",
+        "frequency": 54
+    },
+    {
+        "category": "hip hop, R&B",
+        "frequency": 9
+    },
+    {
+        "category": "hip hop, latin, Dance/Electronic",
+        "frequency": 9
+    },
+    {
+        "category": "hip hop, pop",
+        "frequency": 1287
+    },
+    {
+        "category": "hip hop, pop, Dance/Electronic",
+        "frequency": 333
+    },
+    {
+        "category": "hip hop, pop, R&B",
+        "frequency": 1143
+    },
+    {
+        "category": "hip hop, pop, R&B, Dance/Electronic",
+        "frequency": 18
+    },
+    {
+        "category": "hip hop, pop, R&B, latin",
+        "frequency": 18
+    },
+    {
+        "category": "hip hop, pop, country",
+        "frequency": 9
+    },
+    {
+        "category": "hip hop, pop, latin",
+        "frequency": 72
+    },
+    {
+        "category": "hip hop, pop, rock",
+        "frequency": 54
+    },
+    {
+        "category": "hip hop, rock, pop",
+        "frequency": 9
+    },
+    {
+        "category": "latin",
+        "frequency": 63
+    },
+    {
+        "category": "metal",
+        "frequency": 45
+    },
+    {
+        "category": "pop",
+        "frequency": 1800
+    },
+    {
+        "category": "pop, Dance/Electronic",
+        "frequency": 954
+    },
+    {
+        "category": "pop, Folk/Acoustic",
+        "frequency": 54
+    },
+    {
+        "category": "pop, R&B",
+        "frequency": 873
+    },
+    {
+        "category": "pop, R&B, Dance/Electronic",
+        "frequency": 9
+    },
+    {
+        "category": "pop, R&B, easy listening",
+        "frequency": 9
+    },
+    {
+        "category": "pop, country",
+        "frequency": 9
+    },
+    {
+        "category": "pop, easy listening, jazz",
+        "frequency": 9
+    },
+    {
+        "category": "pop, latin",
+        "frequency": 144
+    },
+    {
+        "category": "pop, rock",
+        "frequency": 81
+    },
+    {
+        "category": "pop, rock, Dance/Electronic",
+        "frequency": 18
+    },
+    {
+        "category": "pop, rock, Folk/Acoustic",
+        "frequency": 9
+    },
+    {
+        "category": "pop, rock, metal",
+        "frequency": 63
+    },
+    {
+        "category": "rock",
+        "frequency": 342
+    },
+    {
+        "category": "rock, Folk/Acoustic, pop",
+        "frequency": 9
+    },
+    {
+        "category": "rock, blues",
+        "frequency": 18
+    },
+    {
+        "category": "rock, blues, latin",
+        "frequency": 9
+    },
+    {
+        "category": "rock, easy listening",
+        "frequency": 9
+    },
+    {
+        "category": "rock, metal",
+        "frequency": 180
+    },
+    {
+        "category": "rock, pop",
+        "frequency": 198
+    },
+    {
+        "category": "rock, pop, Dance/Electronic",
+        "frequency": 36
+    },
+    {
+        "category": "rock, pop, metal",
+        "frequency": 36
+    },
+    {
+        "category": "set",
+        "frequency": 72
+    },
+    {
+        "category": "the",
+        "frequency": 8
+    },
+    {
+        "category": "u",
+        "frequency": 8
+    }
+]

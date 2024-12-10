@@ -1,0 +1,34 @@
+[
+    {
+        "Genre": "Action",
+        "Average Rating": 0.0
+    },
+    {
+        "Genre": "Comedy",
+        "Average Rating": 0.0
+    },
+    {
+        "Genre": "Documentary",
+        "Average Rating": 0.0
+    },
+    {
+        "Genre": "Drama",
+        "Average Rating": 0.0
+    },
+    {
+        "Genre": "Horror",
+        "Average Rating": 0.0
+    },
+    {
+        "Genre": "Romance",
+        "Average Rating": 0.0
+    },
+    {
+        "Genre": "Sci-Fi",
+        "Average Rating": 0.0
+    },
+    {
+        "Genre": "Thriller",
+        "Average Rating": 0.0
+    }
+]
